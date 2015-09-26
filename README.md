@@ -8,4 +8,5 @@ Worry no more. This helpful bash script allows you the distinct pleasure of bein
 Go on. Mislabel something. **I should probably try and market this to someone at tumblr**
 
 Usage:
+
     filetypecheck -c (Correct extension errors) -a (Display files with correct extensions as well)
